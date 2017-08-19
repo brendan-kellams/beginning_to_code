@@ -1,0 +1,24 @@
+body {
+	background-color: lightblue;
+}
+
+.couple {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border: 3px solid transparent;
+    border-color: black;
+}
+h1 {
+	text-align: center;
+	color: red;
+	font-family: impact;
+	font-size: 300%;
+
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: AnglicanText;
+}
